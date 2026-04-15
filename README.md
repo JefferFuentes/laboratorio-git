@@ -4,12 +4,12 @@ git init
 ### Cambiar de nombre la rama principal a main:  
 git branch -m main
 
-![imagen1][img1]
+![Imagen 1](src/main/resources/static/img/imagen1.png)
 
 ### Hacer un primer commit llamado "Estructura inicial del proyecto":   
 git commit -m "Estructura incial del proyecto"
 
-![imagen2][img2]
+![Imagen 2](src/main/resources/static/img/imagen2.png)
 
 ### Verificar el historial de commmits de forma resumida en una sola línea:   
 git log --graph --decorate --all --oneline
@@ -24,7 +24,7 @@ git commit -m "Agrega contenido en index"
 ### Unir ramas main y desarrollo:  
 git merge main
 
-![imagen3][img]
+![Imagen 3](src/main/resources/static/img/imagen3.png)
 
 ### Crear un commit llamado "Cambio temporal":  
 git commit -m "Cambio temporal"
@@ -35,23 +35,23 @@ git reset --hard HEAD~1
 ### Recupere el último commit:  
 git reset --hard HEAD@{1}
 
-![imagen5][img5]
+![Imagen 5](src/main/resources/static/img/imagen5.png)
 
 ### Haga otro commit llamado "Agrega gitignore":  
 git commit -m "Agrega gitignore"
 
 ### Crear una rama nueva llamada login:  
 git branch login
-![imagen6][img6]
+![Imagen 6](src/main/resources/static/img/imagen6.png)
 
 ### Hacer otro commit llamado "Agrega login":  
 git commit -m "Agrega login"
 
-![imagen7][img7]
+![Imagen 7](src/main/resources/static/img/imagen7.png)
 
-![img1]: src/main/resources/imagen1.png "Imagen1"
-![img2]: src/main/resources/imagen2.png "Imagen2"
-![img3]: src/main/resources/imagen3.png "Imagen3"
-![img5]: src/main/resources/imagen5.png "Imagen5"
-![img6]: src/main/resources/imagen6.png "Imagen6"
-![img7]: src/main/resources/imagen7.png "Imagen7"
+
+
+
+
+
+

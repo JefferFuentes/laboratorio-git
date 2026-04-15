@@ -48,3 +48,10 @@ git branch login
 git commit -m "Agrega login"
 
 ![imagen7][img7]
+
+![img1]: src/main/resources/imagen1.png "Imagen1"
+![img2]: src/main/resources/imagen2.png "Imagen2"
+![img3]: src/main/resources/imagen3.png "Imagen3"
+![img5]: src/main/resources/imagen5.png "Imagen5"
+![img6]: src/main/resources/imagen6.png "Imagen6"
+![img7]: src/main/resources/imagen7.png "Imagen7"
